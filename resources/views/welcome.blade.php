@@ -23,19 +23,19 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Home</a>
+                        <a class="nav-link" href="#slides">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">About</a>
+                        <a class="nav-link" href="#about">About</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Services</a>
+                        <a class="nav-link" href="#services">Services</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Features</a>
+                        <a class="nav-link" href="#features">Features</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link" href="#contact">Contact</a>
                     </li>
 
                 </ul>
@@ -69,7 +69,7 @@
             </div>
         </div>
     </div>
-    <div class="container-fluid padding">
+    <div class="container-fluid padding" id="about">
         <div class="row welcome text-center">
             <div class="col-12">
                 <h1 class="display-4">GitCon</h1>
@@ -81,7 +81,7 @@
         </div>
     </div>
 
-    <div class="container-fluid padding">
+    <div class="container-fluid padding" id="services">
         <div class="row text-center padding">
             <div class="col-12">
                 <h1 class="display-4">Our services</h1>
@@ -103,7 +103,7 @@
         </div>
         <hr class="my-4">
     </div>
-    <div class="container-fluid padding">
+    <div class="container-fluid padding" id="features">
         <div class="row text-center padding">
             <div class="col-12">
                 <h1 class="display-4">Features</h1>
@@ -136,7 +136,7 @@
         </div>
         <hr class="my-4">
     </div>
-    <div class="container-fluid padding">
+    <div class="container-fluid padding" id="contact">
         <div class="row text-center padding">
             <div class="col-12">
                 <h2>Contact Us</h2>
@@ -156,7 +156,7 @@
         <div class="p-3 mb-2 bg-dark text-white">
             <div class="container-fluid padding">
                 <div class="row text-center">
-                    <div class="col-md-4">
+                    {{-- <div class="col-md-4">
                         <h5>Address:</h5>
                         <hr class="light">
                         <p>555-5555-</p>
@@ -171,10 +171,10 @@
                         <p>Monday:9am-5pm</p>
                         <p>Monday:9am-5pm</p>
                         <p>Monday:9am-5pm</p>
-                    </div>
+                    </div> --}}
                     <div class="col-12">
                         <hr class="thick">
-                        <h5>&copy; website</h5>
+                        <h5>&copy; GitCon</h5>
                     </div>
                 </div>
             </div>
