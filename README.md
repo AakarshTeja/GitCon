@@ -4,4 +4,4 @@
 
 ## Q&A
 - Why only *GitCon* Why not using external video calling ??
-- A) Since the main focus is discussing about CodeBase and if we integrate with GitHub it can make the Project have more focus on project and code through the discussions within the tea. Our GitCon helps them to solve this problem of having less interaction within team to collaborate with eachother. 
+- A) Since the main focus is discussing about CodeBase and if we integrate with GitHub it can make the Project have more focus on project and code through the discussions within the team. Our GitCon helps them to solve this problem of having less interaction within team to collaborate with eachother. 
