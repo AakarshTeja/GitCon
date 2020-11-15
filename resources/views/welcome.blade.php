@@ -76,7 +76,7 @@
             </div>
             <hr>
             <div class="col-12">
-                <p class="lead">Welcome to GitCon It is one of the platform for connecting .............</p>
+                <p class="lead">Welcome to GitCon It is one of the platform for connecting Developers</p>
             </div>
         </div>
     </div>
@@ -88,8 +88,8 @@
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
 
-                <h3>Managed Services:</h3>
-                <p> Focus on running your business, and let the HitPath team handle the technical work for you. </p>
+                <h3>Video Conferences</h3>
+                <p> Focus on running your Projects, and have meetings with team to handle the Work.</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
 
@@ -97,7 +97,7 @@
                 <p>Call anytime. When you have questions, we have answers -- right away!</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
-                <h3>video conference</h3>
+                <h3></h3>
                 <p>vhfggfchvbvhhvh</p>
             </div>
         </div>
@@ -110,28 +110,28 @@
                 <hr class="my-4">
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
-                <h3>Tutorials:</h3>
-                <p>Navigate HitPath with ease using our glossary and step-by-step guides.</p>
+                <h3>Channels/Rooms</h3>
+                <p>Each Team or Each Issue or Repo can have channels and rooms created</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
-                <h3>Adaptability:</h3>
-                <p> Work the way you choose. HitPath’s versatility allows it to integrate with tools and processes you and your partners use daily.</p>
+                <h3>GitHub Integrations</h3>
+                <p> Using github API's now all the actions,events can implemented here</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
-                <h3>User Preferences:</h3>
-                <p>Share HitPath with as many internal users as you like. Control what each team member can access and modify, and create permission templates for easy setup</p>
+                <h3>Record Meetings</h3>
+                <p>Meetings can be recorded so that it can be viewed later by participants who missed</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
                 <h3>API:</h3>
                 <p> Streamline your systems and workflow with reporting and administrative APIs.</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
-                <h3>Adaptability:</h3>
-                <p> Work the way you choose. HitPath’s versatility allows it to integrate with tools and processes you and your partners use daily.</p>
+                <h3>ScreenShare</h3>
+                <p> With the screensharing option teams can collaborate having the discussion on code etc.</p>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-4">
-                <h3>User Preferences:</h3>
-                <p>Share HitPath with as many internal users as you like. Control what each team member can access and modify, and create permission templates for easy setup</p>
+                <h3>Password Protection</h3>
+                <p>If you want to make the private meetings it can be done by adding passwords to meetings</p>
             </div>
         </div>
         <hr class="my-4">
